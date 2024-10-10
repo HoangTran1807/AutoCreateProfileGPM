@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoCreateProfileGPM", "AutoCreateProfileGPM\AutoCreateProfileGPM.csproj", "{879A0A45-BEFF-4DDE-A883-5A89F339AD3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{879A0A45-BEFF-4DDE-A883-5A89F339AD3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{879A0A45-BEFF-4DDE-A883-5A89F339AD3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{879A0A45-BEFF-4DDE-A883-5A89F339AD3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{879A0A45-BEFF-4DDE-A883-5A89F339AD3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {240EB6DA-289E-408D-98AA-E4AC9674607D}
+	EndGlobalSection
+EndGlobal
